@@ -1,0 +1,9 @@
+Product,Region,Quantity,UnitPrice,Revenue,Duplicate
+Laptop,Chennai,2,25000,50000,FALSE
+Mobile,Chennai,3,10000,30000,FALSE
+Laptop,Bangalore,1,45000,45000,FALSE
+Headphones,Chennai,5,1000,5000,FALSE
+Mobile,Bangalore,2,12500,25000,FALSE
+Monitor,Chennai,2,6000,12000,FALSE
+Laptop,Bangalore,1,50000,50000,FALSE
+Headphones,Bangalore,4,1500,6000,FALSE
